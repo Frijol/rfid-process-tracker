@@ -1,0 +1,30 @@
+{
+  "name": "rfid-process-tracker",
+  "version": "1.0.0",
+  "description": "Uses Tessel + rfid to track an rfid-tagged item through a process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Frijol/rfid-process-tracker.git"
+  },
+  "keywords": [
+    "tessel",
+    "rfid",
+    "process",
+    "logistics",
+    "iot",
+    "keen"
+  ],
+  "author": "Kelsey Breseman",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Frijol/rfid-process-tracker/issues"
+  },
+  "homepage": "https://github.com/Frijol/rfid-process-tracker",
+  "dependencies": {
+    "rfid-pn532": "^0.1.7"
+  }
+}
