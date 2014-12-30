@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Frijol/rfid-process-tracker",
   "dependencies": {
+    "keen.io": "^0.1.3",
     "rfid-pn532": "^0.1.7"
   }
 }
